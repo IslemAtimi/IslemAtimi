@@ -2,6 +2,6 @@ HI I am ATCHI Islem Ahmed
 
 I am a student in universite USTHB Algeria
 
-I am an ELIT trainee (JAVA Spring)
+I am a software engineer at ITComp 
 
-And i am interested to flutter
+fullStack (dotnet and angular)
